@@ -34,7 +34,7 @@ def start():
 
         
 def show_lsit():
-    for list in date():
+    for list in data():
         print(list())
 def add_list():
     pass
@@ -43,4 +43,4 @@ def del_list():
 def kill():
     print("be well")
 
-main()
+start()
